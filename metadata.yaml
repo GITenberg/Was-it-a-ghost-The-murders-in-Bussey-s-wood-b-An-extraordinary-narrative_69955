@@ -1,5 +1,8 @@
 _repo: Was-it-a-ghost-The-murders-in-Bussey-s-wood-b-An-extraordinary-narrative_69955
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69955-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69955#Was-it-a-ghost-The-murders-in-Bussey-s-wood-b-An-extraordinary-narrative
 gutenberg_issued: '2023-02-04'
 identifiers:
   gutenberg: '69955'
